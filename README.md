@@ -1,4 +1,4 @@
-# Cool Forces Chess Game
+# Chess Game
 ![alt text](screenshots/main.png)
 
 ## Description
@@ -7,7 +7,7 @@
 
 ## Tech Stack Used
 
-|**Logic** | [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) |
+|**Functionality** | [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) |
 |--- | --- |
 |**UI Design** | [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#) |
 |**Database** | [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#) |
