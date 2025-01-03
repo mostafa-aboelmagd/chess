@@ -16,17 +16,17 @@
 
 - User Registeration
    
-![alt text](screenshots/reg.PNG)
-![alt text](screenshots/Incorrect_Login.PNG)
+![alt text](screenshots/reg.png)
+![alt text](screenshots/Incorrect_Login.png)
 - Color, Opponent, Time Choice
 
-![alt text](screenshots/nGameSett.PNG)
+![alt text](screenshots/nGameSett.png)
 - New Available Moves Different From Normal Chess Rules
   
-![alt text](screenshots/Avmoves.PNG)
+![alt text](screenshots/Avmoves.png)
 - Viewing Matches Analytics Like History & Win Rate
   
-![alt text](screenshots/hist.PNG)
+![alt text](screenshots/hist.png)
 
 ## Contributors
 
